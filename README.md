@@ -7,7 +7,7 @@ Este projeto tem como objetivo criar um conjunto de dados fictícios e exportá-
 
 # Geração de Dados Fictícios: 
 
-O projeto utiliza a biblioteca pandas do Python para criar um DataFrame fictício que simula informações de pessoas, como nome, idade e cidade de residência. Além disso, IDs de usuário fictícios são gerados aleatoriamente.
+O projeto utiliza a biblioteca pandas do Python para criar um DataFrame fictício que simula informações de pessoas, como nome, idade e número de telefone. Além disso, IDs de usuário fictícios são gerados aleatoriamente.
 
 # Personalização dos Dados Fictícios: 
 
