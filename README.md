@@ -1,4 +1,4 @@
-# Geração de Dados Fictício
+
 
 # Descrição:
 Este projeto tem como objetivo criar um conjunto de dados fictícios e exportá-los usando a linguagem de programação Python no ambiente do Google Colab. Os dados gerados são projetados para fins de demonstração, testes ou experimentação em análise de dados, aprendizado de máquina ou outras aplicações.
